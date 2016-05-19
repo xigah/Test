@@ -1,0 +1,26 @@
+﻿a4430 /abc123a4430
+
+rdssdb/rdssdbabc123
+IP:172.16.201.4 
+端口号 3306
+数据库名称 dssdb  
+账号 dssdb
+密码 dssdbabc123
+
+172.16.200.101/administrator/HaiJuXinDa@999
+
+172.16.200.181/administrator/admin-123456@TFS
+
+172.16.21.247:weixin
+
+\\172.16.200.11\海钜信达共享盘\信息技术中心\A公共盘\IT分享会
+
+
+微信公众平台 xigah@163.com
+微信开放平台 xigah@qq.com
+
+    <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+        connectionURL="jdbc:mysql://172.16.21.232:3306/weixin"
+        userId="root"
+        password="123456">
+    </jdbcConnection>
